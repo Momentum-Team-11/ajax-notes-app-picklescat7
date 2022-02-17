@@ -96,9 +96,15 @@ li {
     margin: 3px 0px 0px;
 }
 
-.icons {
-    color: cornflowerblue; 
-    font-size: 16px;
+i {
+    /* color: cornflowerblue;  */
+    border-radius:10px;
+    background-color: lightgrey;
+    font-size: 20px;
     font: bold;
     margin: 3px 0px;
+}
+
+p {
+    margin: 0px;
 }
